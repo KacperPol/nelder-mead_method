@@ -1,3 +1,4 @@
 # nelder-mead_method
-PL: Implementacja metody Neldera-Meada z GUI
+Academic course project
+PL: Implementacja metody Neldera-Meada z GUI <br />
 EN: Implementation of Nelder-Mead method with GUI
